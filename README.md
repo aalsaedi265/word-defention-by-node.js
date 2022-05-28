@@ -1,0 +1,1 @@
+# word-defention-by-node.js
